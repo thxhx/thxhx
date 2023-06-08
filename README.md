@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thxhx
-- 👀 I’m interested in electronics and IA
-- 🌱 I’m currently learning industrial engineering
+- 👀 I’m interested in CV & software dev
+- 🌱 I’m an industrial engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
